@@ -1,0 +1,4 @@
+- Hi, I’m @zingeo
+- I code in SQL, PL/SQL, SAS, Excel VBA, ksh, perl, c++
+- My interests are photography, 3D graphics/OpenGL, kayaking, mysticism
+- I live just south of Phoenix, AZ in Maricopa
